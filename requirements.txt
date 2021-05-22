@@ -1,7 +1,6 @@
 streamlit==0.52.2
 transformers==4.3.3
 jieba==0.42.1
-IPython==5.5.0
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.7.0+cpu 
 -f https://download.pytorch.org/whl/torch_stable.html
