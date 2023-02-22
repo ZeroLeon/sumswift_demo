@@ -8,3 +8,6 @@ torchvision==0.8.1+cpu
 -f https://download.pytorch.org/whl/torch_stable.html
 torchaudio==0.7.0
 requests==2.21.0
+
+pip install packaging==21.3
+pip install 'torchmetrics<0.8'
